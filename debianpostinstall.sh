@@ -10,7 +10,7 @@
 # └───────────────┴──────────────────────────────────────────────────────────┘
 
 VERSION="1.0"
-LISTE="cron-apt logwatch lsb-release vim locate zsh debian-goodies ssh"
+LISTE="cron-apt logwatch lsb-release vim locate zsh debian-goodies ssh ntp ntpdate"
 
 # ┌──────────────────────────────────────────────────────────────────────────┐
 # │ General Options                                                          │
