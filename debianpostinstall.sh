@@ -1,5 +1,5 @@
 # ┌───────────────┬──────────────────────────────────────────────────────────┐
-# │          FILE │ debianpostinstall                                       │
+# │          FILE │ debianpostinstall                                        │
 # │   DESCRIPTION │ Debian post install script                               │
 # │        AUTHOR │ DexTerre                                                 │
 # │       VERSION │ 1.0.0                                                    │
@@ -10,7 +10,7 @@
 # └───────────────┴──────────────────────────────────────────────────────────┘
 
 VERSION="1.0"
-LISTE="cron-apt fail2ban logwatch lsb-release"
+LISTE="cron-apt logwatch lsb-release vim locate zsh debian-goodies ssh"
 
 # ┌──────────────────────────────────────────────────────────────────────────┐
 # │ General Options                                                          │
